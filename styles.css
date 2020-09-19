@@ -1,27 +1,17 @@
 
-
-
-
-
-
-
-
-
-
-
-.modal-body{
-    border: 1px solid black;
-    border-radius: 4px;
-    margin: 10px;
-    
-
+.modal-icons{
+    font-size: 20px;
 }
-.nav-pills .nav-link.active, .nav-pills .show>.nav-link {
+
+.nav-pills .nav-link.active,  .nav-pills .show>.nav-link {
     color: #fff;
     background-color: #6c757d;
 }
+
 a {
     color: #6c757d;
     text-decoration: none;
     background-color: transparent;
+    
 }
+
